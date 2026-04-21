@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Building a Database with Stored Procedures</h1>
-    <p>Annabelle Germond>/p>
-    <p>April 20, 2026</p>
+    <p>Annabelle Germond</p>
+    <p>April 21, 2026</p>
 </body>
 </html>
